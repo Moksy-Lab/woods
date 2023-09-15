@@ -13,6 +13,7 @@ font-family: 'Mooli', sans-serif
     font-weight: 500;
     background-color: white;
     border: none;
+    border-radius: 0px;
     color: black
 }
 .headerhdm8ad340b3 .btn-primary:hover{
@@ -31,3 +32,32 @@ font-family: 'Mooli', sans-serif
 }
 /* #howard(headerhdm8ad340b3) #css ends  */
 /*****howard*****/
+
+/*****adolf*****/
+/* #adolf(p3dce575962b3c369) #css starts  */
+.aboutp3dce575962b3c369 .jumbotron{
+    border-radius: 0px
+}
+.aboutp3dce575962b3c369 .DescriptionHeading {
+        font-size: 44px;
+        color: #2D2D2D
+    }
+
+    .aboutp3dce575962b3c369 .DescriptionPara {
+        color: #2D2D2D;
+        font-size: 20px
+    }
+    
+    .aboutp3dce575962b3c369 .badge{
+        color: #A576FF;
+        background-color: white;
+        margin-left: -8px
+    }
+    .aboutp3dce575962b3c369 .searchBtn{
+        background-color:#FF9F67;
+        border-radius: 0px;
+        color: white;
+        font-weight: bold
+    }
+/* #adolf(p3dce575962b3c369) #css ends  */
+/*****adolf*****/
