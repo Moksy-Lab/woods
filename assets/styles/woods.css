@@ -114,6 +114,9 @@
 
 /*****crunella*****/
     /* #crunella(crunellaobWyteyCWzRLkMG) #css starts  */
+    .crunellaobWyteyCWzRLkMG .fdb-block {
+        padding: 5.5rem 0
+    }
     .crunellaobWyteyCWzRLkMG .fdb-block  h1 {
         font-weight: 600;
         margin-top: 15px;
@@ -128,6 +131,9 @@
 
 /*****sagnu*****/
 /* #sagnu(ebfcf165e4ae5852) #css starts  */
+.serviceebfcf165e4ae5852{
+    padding: 5.5rem 0
+}
 .serviceebfcf165e4ae5852 h2 {
     font-size: 44px
 }
@@ -149,7 +155,9 @@
 
 /*****taliyah*****/ 
 /* #taliyah(teamtm4kyeslxmy) #css starts */
-
+.teamtm4kyeslxmy .fdb-block {
+    padding: 3rem 0;
+}
     .teamtm4kyeslxmy .fdb-block h1{
         color: #2D2D2D;
         font-size: 32px
