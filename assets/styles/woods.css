@@ -31,7 +31,8 @@
 /*****adolf*****/
 /* #adolf(p3dce575962b3c369) #css starts  */
 .aboutp3dce575962b3c369 .jumbotron{
-    border-radius: 0px
+    border-radius: 0px;
+    background: #fff
 }
 .aboutp3dce575962b3c369 .DescriptionHeading {
         font-size: 44px;
@@ -58,7 +59,7 @@
 /*****single*****/
 /* #single(eb6af6ab30a03fde) #css starts  */
 .serviceeb6af6ab30a03fde {
-    padding: 0.5rem 0;
+    padding: 0rem 0;
     background: #fff
 }
 .serviceeb6af6ab30a03fde .fa{
