@@ -4,22 +4,23 @@
     max-height: 40px
 }
 .headerhdm8ad340b3 .btn-primary{
-    font-weight: 500;
+    font-weight: 600;
     background-color: white;
     border: none;
     border-radius: 0px;
     color: black
 }
-.headerhdm8ad340b3 .btn-primary:hover{
+.headerhdm8ad340b3 .btn-primary:hover,
+.btn-primary:not(:disabled):not(.disabled):active{
     background-color: #FF9F67;
     color: white;
     transition: 0.5s ease
 }
 .headerhdm8ad340b3 nav ul li a{
-    font-weight: 500
+    font-weight: 600
 }
 .headerhdm8ad340b3 .navbar-light .navbar-nav .nav-link{
-    font-weight: 500
+    font-weight: 600
 }
 .headerhdm8ad340b3 .navbar-light .navbar-nav .nav-link:hover{
     color: #A576FF
@@ -34,18 +35,16 @@
 }
 .aboutp3dce575962b3c369 .DescriptionHeading {
         font-size: 44px;
-        color: #2D2D2D
+        color: #37423b
     }
 
     .aboutp3dce575962b3c369 .DescriptionPara {
-        color: #2D2D2D;
+        color: #37423b;
         font-size: 20px
     }
     
     .aboutp3dce575962b3c369 .badge{
-        color: #A576FF;
-        background-color: white;
-        margin-left: -8px
+        display: none
     }
     .aboutp3dce575962b3c369 .searchBtn{
         background-color:#FF9F67;
@@ -58,8 +57,8 @@
 
 /*****single*****/
 /* #single(eb6af6ab30a03fde) #css starts  */
-.serviceeb6af6ab30a03fde{
-    padding: 7.5rem 0;
+.serviceeb6af6ab30a03fde {
+    padding: 0.5rem 0;
     background: #fff
 }
 .serviceeb6af6ab30a03fde .fa{
@@ -87,7 +86,7 @@
 /*****funtush*****/
 /* #funtush(funtushftac0ssp3mu) #css starts  */
 .funtushftac0ssp3mu{
-    padding: 7.5rem 0
+    padding: 5.5rem 0
 }
 .funtushftac0ssp3mu h1{
     font-size: 32px;
@@ -104,7 +103,7 @@
 /*****waldina*****/
 /* =============================  #features #waldina start =========================== */
 .b2bbaef8b0c43ef9{
-    padding: 7.5rem 0
+    padding: 5.5rem 0
 }
 .MoksyHead{
     color: #2D2D2D
