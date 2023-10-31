@@ -75,7 +75,7 @@ Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.c
 Every team member at Moksy has dedicated themselves to serve the community. Your support fuels our motivation and ensures we can continue to offer these resources for free.
 
 ### Impressed with Our Template? 🌟
-<a href="https://github.com/Moksy-Lab/sarah">
+<a href="https://github.com/Moksy-Lab/woods">
     Give us a star on GitHub and help us reach more developers! ⭐️
 </a>
 
